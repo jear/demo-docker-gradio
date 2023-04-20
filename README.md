@@ -1,4 +1,3 @@
-# demo-docker-gradio
 ---
 title: Demo Docker Gradio
 emoji: 📈
